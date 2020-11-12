@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.13/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/CMake/modules/FindVulkan.cmake
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/CMakeLists.txt
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/cmake_uninstall.cmake.in
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/src/glfw3.pc.in
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/src/glfw3Config.cmake.in
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/src/glfw_config.h.in

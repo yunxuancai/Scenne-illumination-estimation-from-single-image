@@ -1,0 +1,17 @@
+C:/Users/caiyx/Desktop/GLEngine-master/CMakeFiles/GLEngine.dir
+C:/Users/caiyx/Desktop/GLEngine-master/CMakeFiles/INSTALL.dir
+C:/Users/caiyx/Desktop/GLEngine-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/caiyx/Desktop/GLEngine-master/CMakeFiles/ZERO_CHECK.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/CMakeFiles/uninstall.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/CMakeFiles/INSTALL.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/src/CMakeFiles/glfw.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/CMakeFiles/INSTALL.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/CMakeFiles/ALL_BUILD.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/contrib/zlib/CMakeFiles/INSTALL.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/code/CMakeFiles/assimp.dir
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/code/CMakeFiles/INSTALL.dir

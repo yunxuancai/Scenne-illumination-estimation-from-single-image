@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\src\camera\camera.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\src\lighting\light.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\src\mesh\mesh.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\src\mesh\model.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\material.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\shader.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\shape.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\skybox.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\texture.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\api\glad\src\glad.c">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\api\imgui\imgui.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\api\imgui\imgui_draw.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caiyx\Desktop\GLEngine-master\api\imgui\imgui_impl_glfw_gl3.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="src\renderer\main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\caiyx\Desktop\GLEngine-master\src\camera\camera.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caiyx\Desktop\GLEngine-master\src\lighting\light.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caiyx\Desktop\GLEngine-master\src\mesh\mesh.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caiyx\Desktop\GLEngine-master\src\mesh\model.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\material.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\shader.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\shape.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\skybox.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caiyx\Desktop\GLEngine-master\src\resources\texture.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="src\resources\filesystem.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\caiyx\Desktop\GLEngine-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\gBuffer.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\gBuffer.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\latlongToCube.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\latlongToCube.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\directional.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\directional.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\environment.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\environment.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\integrateIBL.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\integrateIBL.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\irradianceIBL.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\irradianceIBL.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\lightingBRDF.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\lightingBRDF.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\point.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\point.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\prefilterIBL.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\prefilterIBL.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\simple.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\lighting\simple.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\postprocess\firstpass.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\postprocess\postprocess.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\postprocess\sao.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\postprocess\sao.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\resources\shaders\postprocess\saoBlur.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\.gitignore" />
+    <None Include="C:\Users\caiyx\Desktop\GLEngine-master\README.md" />
+    <None Include="resources\shaders\2.2.2.background.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\2.2.2.background.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\2.2.2.brdf.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\2.2.2.brdf.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\2.2.2.cubemap.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\2.2.2.equirectangular_to_cubemap.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\2.2.2.irradiance_convolution.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\2.2.2.pbr.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\2.2.2.pbr.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\2.2.2.prefilter.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\3.1.3.debug_quad.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\3.1.3.debug_quad_depth.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\3.1.3.shadow_mapping.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\3.1.3.shadow_mapping.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\3.1.3.shadow_mapping_depth.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="resources\shaders\3.1.3.shadow_mapping_depth.vs">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="API">
+      <UniqueIdentifier>{46C4B332-5AC9-3311-93A1-DB6945884EF2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{A3165B7E-AE1A-3A6E-BE73-D5023ADFACD3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{F90DC67C-D0DC-30BC-874B-F3D372BF0C3F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{B8AB9CB2-54D8-3DAE-8E2C-3FC635497996}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

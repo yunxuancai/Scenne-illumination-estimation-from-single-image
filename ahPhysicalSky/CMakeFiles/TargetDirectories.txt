@@ -1,0 +1,3 @@
+C:/Users/caiyx/Source/Repos/ahPhysicalSky/CMakeFiles/ahPhysicalSky.dir
+C:/Users/caiyx/Source/Repos/ahPhysicalSky/CMakeFiles/ALL_BUILD.dir
+C:/Users/caiyx/Source/Repos/ahPhysicalSky/CMakeFiles/ZERO_CHECK.dir

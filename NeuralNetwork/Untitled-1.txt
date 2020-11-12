@@ -1,0 +1,323 @@
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights160.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |#################################################################| Elapsed Time: 0:00:21 Time:  0:00:21
+Testing avg loss: 57.73593982619646
+Average predictions error:
+sun position (angular error): 34.68289076577396
+tubidity: 0.5557923053131729
+exposure: 0.005424891994716447
+elevation (degrees): 1.3097639622052246
+FoV (degrees): 7.537525392573536
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |#############################| Elapsed Time: 0:00:24 Time:  0:00:24
+Testing avg loss: 51.26570667963414
+Average predictions error:
+sun position (angular error): 26.405183535503106
+tubidity: 0.48931862907331497
+exposure: 0.005785882033285547
+elevation (degrees): 1.2051472689467864
+FoV (degrees): 7.0704459363788414
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights1.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |##################################################################################################################################################################| Elapsed Time: 0:00:24 Time:  0:00:24
+Testing avg loss: 56.319597591721205
+Average predictions error:
+sun position (angular error): 20.849842750945264
+tubidity: 0.5341187003694596
+exposure: 0.0054555301466712456
+elevation (degrees): 1.283599466470177
+FoV (degrees): 7.01303631110473
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights256.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |##################################################################################################################################################################| Elapsed Time: 0:00:23 Time:  0:00:23
+Testing avg loss: 54.36745586376332
+Average predictions error:
+sun position (angular error): 23.51933211863355
+tubidity: 0.5128796550094105
+exposure: 0.005267315787324285
+elevation (degrees): 1.2529735438899732
+FoV (degrees): 7.402204363487534
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights360.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |##################################################################################################################################################################| Elapsed Time: 0:00:30 Time:  0:00:30
+Testing avg loss: 51.712805612144045
+Average predictions error:
+sun position (angular error): 22.286024395442197
+tubidity: 0.49016698559776684
+exposure: 0.005040821040690434
+elevation (degrees): 1.2311205014281097
+FoV (degrees): 7.298178242248689
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |##################################################################################################################################################################| Elapsed Time: 0:00:27 Time:  0:00:27
+Testing avg loss: 132.25477779347938
+Average predictions error:
+sun position (angular error): 24.802288625149355
+tubidity: 0.50953072270409
+exposure: 0.005366382009700917
+elevation (degrees): 1.465339087728472
+FoV (degrees): 7.340991750467225
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python train.py
+epoch: 1 steps: 1 loss: 1.4895741939544678
+epoch: 1 steps: 101 loss: 0.5356062650680542
+epoch: 1 steps: 201 loss: 0.4374961853027344
+epoch: 1 steps: 301 loss: 0.2790607213973999
+epoch: 1 steps: 401 loss: 0.3652647137641907
+epoch: 1 steps: 501 loss: 0.15576571226119995
+epoch: 2 steps: 1 loss: 0.18167012929916382
+epoch: 2 steps: 101 loss: 0.1492152214050293
+epoch: 2 steps: 201 loss: 0.15368640422821045
+epoch: 2 steps: 301 loss: 0.17723961174488068
+epoch: 2 steps: 401 loss: 0.09339208900928497
+epoch: 2 steps: 501 loss: 0.14477436244487762
+epoch: 3 steps: 1 loss: 0.13059918582439423
+epoch: 3 steps: 101 loss: 0.0912754163146019
+epoch: 3 steps: 201 loss: 0.11349057406187057
+epoch: 3 steps: 301 loss: 0.14538885653018951
+epoch: 3 steps: 401 loss: 0.08794254809617996
+epoch: 3 steps: 501 loss: 0.0751802995800972
+epoch: 4 steps: 1 loss: 0.10826363414525986
+epoch: 4 steps: 101 loss: 0.07294561713933945
+epoch: 4 steps: 201 loss: 0.12570717930793762
+epoch: 4 steps: 301 loss: 0.3453630208969116
+epoch: 4 steps: 401 loss: 0.1146329864859581
+epoch: 4 steps: 501 loss: 0.11852014064788818
+epoch: 5 steps: 1 loss: 0.12441973388195038
+epoch: 5 steps: 101 loss: 0.12837858498096466
+epoch: 5 steps: 201 loss: 0.11766986548900604
+epoch: 5 steps: 301 loss: 0.18319185078144073
+epoch: 5 steps: 401 loss: 0.1573982685804367
+epoch: 5 steps: 501 loss: 0.1092216894030571
+epoch: 6 steps: 1 loss: 0.0983804315328598
+epoch: 6 steps: 101 loss: 0.10037239640951157
+epoch: 6 steps: 201 loss: 0.10223448276519775
+epoch: 6 steps: 301 loss: 0.09143693745136261
+epoch: 6 steps: 401 loss: 0.07721306383609772
+epoch: 6 steps: 501 loss: 0.13845357298851013
+epoch: 7 steps: 1 loss: 0.10649866610765457
+epoch: 7 steps: 101 loss: 0.17390494048595428
+epoch: 7 steps: 201 loss: 0.08021176606416702
+epoch: 7 steps: 301 loss: 0.12020661681890488
+epoch: 7 steps: 401 loss: 0.11338749527931213
+epoch: 7 steps: 501 loss: 0.1260329782962799
+epoch: 8 steps: 1 loss: 0.09219367802143097
+epoch: 8 steps: 101 loss: 0.09018488228321075
+epoch: 8 steps: 201 loss: 0.21584290266036987
+epoch: 8 steps: 301 loss: 0.10881466418504715
+epoch: 8 steps: 401 loss: 0.13077053427696228
+epoch: 8 steps: 501 loss: 0.09869441390037537
+epoch: 9 steps: 1 loss: 0.15876837074756622
+epoch: 9 steps: 101 loss: 0.10199286043643951
+epoch: 9 steps: 201 loss: 0.17670637369155884
+epoch: 9 steps: 301 loss: 0.1175195500254631
+epoch: 9 steps: 401 loss: 0.04351969063282013
+epoch: 9 steps: 501 loss: 0.08835332095623016
+epoch: 10 steps: 1 loss: 0.3067154884338379
+epoch: 10 steps: 101 loss: 0.08925818651914597
+epoch: 10 steps: 201 loss: 0.07629209011793137
+epoch: 10 steps: 301 loss: 0.06674939393997192
+epoch: 10 steps: 401 loss: 0.06375018507242203
+epoch: 10 steps: 501 loss: 0.13939839601516724
+epoch: 11 steps: 1 loss: 0.07735385000705719
+epoch: 11 steps: 101 loss: 0.055536456406116486
+epoch: 11 steps: 201 loss: 0.048084139823913574
+epoch: 11 steps: 301 loss: 0.06620242446660995
+epoch: 11 steps: 401 loss: 0.3087427318096161
+epoch: 11 steps: 501 loss: 0.07047262042760849
+epoch: 12 steps: 1 loss: 0.10656937211751938
+epoch: 12 steps: 101 loss: 0.15261846780776978
+epoch: 12 steps: 201 loss: 0.08072628825902939
+epoch: 12 steps: 301 loss: 0.27795639634132385
+epoch: 12 steps: 401 loss: 0.07569373399019241
+epoch: 12 steps: 501 loss: 0.14499641954898834
+epoch: 13 steps: 1 loss: 0.14273890852928162
+epoch: 13 steps: 101 loss: 0.07323408126831055
+epoch: 13 steps: 201 loss: 0.06529755890369415
+epoch: 13 steps: 301 loss: 0.08726280927658081
+epoch: 13 steps: 401 loss: 0.08519947528839111
+epoch: 13 steps: 501 loss: 0.06529251486063004
+epoch: 14 steps: 1 loss: 0.09962597489356995
+epoch: 14 steps: 101 loss: 0.053946055471897125
+epoch: 14 steps: 201 loss: 0.15570737421512604
+epoch: 14 steps: 301 loss: 0.05726975202560425
+epoch: 14 steps: 401 loss: 0.11319802701473236
+epoch: 14 steps: 501 loss: 0.0904996320605278
+epoch: 15 steps: 1 loss: 0.06883573532104492
+epoch: 15 steps: 101 loss: 0.07221530377864838
+epoch: 15 steps: 201 loss: 0.05056901276111603
+epoch: 15 steps: 301 loss: 0.07917305827140808
+epoch: 15 steps: 401 loss: 0.08839121460914612
+epoch: 15 steps: 501 loss: 0.045225173234939575
+epoch: 16 steps: 1 loss: 0.053662411868572235
+epoch: 16 steps: 101 loss: 0.059377752244472504
+epoch: 16 steps: 201 loss: 0.08820561319589615
+epoch: 16 steps: 301 loss: 0.04382621869444847
+epoch: 16 steps: 401 loss: 0.07428935915231705
+epoch: 16 steps: 501 loss: 0.043199893087148666
+epoch: 17 steps: 1 loss: 0.04488183557987213
+epoch: 17 steps: 101 loss: 0.06129004806280136
+epoch: 17 steps: 201 loss: 0.04063292592763901
+epoch: 17 steps: 301 loss: 0.06120194494724274
+epoch: 17 steps: 401 loss: 0.14547885954380035
+epoch: 17 steps: 501 loss: 0.03611354902386665
+epoch: 18 steps: 1 loss: 0.03025718219578266
+epoch: 18 steps: 101 loss: 0.115267314016819
+epoch: 18 steps: 201 loss: 0.02812010422348976
+epoch: 18 steps: 301 loss: 0.07513177394866943
+epoch: 18 steps: 401 loss: 0.06313108652830124
+epoch: 18 steps: 501 loss: 0.0909225344657898
+epoch: 19 steps: 1 loss: 0.02912783995270729
+epoch: 19 steps: 101 loss: 0.041410163044929504
+epoch: 19 steps: 201 loss: 0.03687359392642975
+epoch: 19 steps: 301 loss: 0.035459332168102264
+epoch: 19 steps: 401 loss: 0.04405743628740311
+epoch: 19 steps: 501 loss: 0.026769187301397324
+epoch: 20 steps: 1 loss: 0.0672118067741394
+epoch: 20 steps: 101 loss: 0.07685281336307526
+epoch: 20 steps: 201 loss: 0.036109160631895065
+epoch: 20 steps: 301 loss: 0.0367809496819973
+epoch: 20 steps: 401 loss: 0.1589207947254181
+epoch: 20 steps: 501 loss: 0.027621876448392868
+epoch: 21 steps: 1 loss: 0.0444878526031971
+epoch: 21 steps: 101 loss: 0.029974859207868576
+epoch: 21 steps: 201 loss: 0.2275412678718567
+epoch: 21 steps: 301 loss: 0.05135655775666237
+epoch: 21 steps: 401 loss: 0.06003652513027191
+epoch: 21 steps: 501 loss: 0.04487069323658943
+epoch: 22 steps: 1 loss: 0.05433791130781174
+epoch: 22 steps: 101 loss: 0.11264044046401978
+epoch: 22 steps: 201 loss: 0.03265721723437309
+epoch: 22 steps: 301 loss: 0.05352652445435524
+epoch: 22 steps: 401 loss: 0.036587975919246674
+epoch: 22 steps: 501 loss: 0.021637555211782455
+epoch: 23 steps: 1 loss: 0.02223530039191246
+epoch: 23 steps: 101 loss: 0.04234690219163895
+epoch: 23 steps: 201 loss: 0.03937838226556778
+epoch: 23 steps: 301 loss: 0.04616718366742134
+epoch: 23 steps: 401 loss: 0.03505411744117737
+epoch: 23 steps: 501 loss: 0.02004937268793583
+epoch: 24 steps: 1 loss: 0.038830168545246124
+epoch: 24 steps: 101 loss: 0.022804008796811104
+epoch: 24 steps: 201 loss: 0.04306026175618172
+epoch: 24 steps: 301 loss: 0.03074900433421135
+epoch: 24 steps: 401 loss: 0.061433132737874985
+epoch: 24 steps: 501 loss: 0.02154141291975975
+epoch: 25 steps: 1 loss: 0.03549915552139282
+epoch: 25 steps: 101 loss: 0.04848453402519226
+epoch: 25 steps: 201 loss: 0.014484988525509834
+epoch: 25 steps: 301 loss: 0.013103929348289967
+epoch: 25 steps: 401 loss: 0.019653357565402985
+epoch: 25 steps: 501 loss: 0.025650452822446823
+epoch: 26 steps: 1 loss: 0.05701082944869995
+epoch: 26 steps: 101 loss: 0.014538688585162163
+epoch: 26 steps: 201 loss: 0.06953149288892746
+epoch: 26 steps: 301 loss: 0.02326761931180954
+epoch: 26 steps: 401 loss: 0.026210259646177292
+epoch: 26 steps: 501 loss: 0.023581527173519135
+epoch: 27 steps: 1 loss: 0.016514385119080544
+epoch: 27 steps: 101 loss: 0.023789051920175552
+epoch: 27 steps: 201 loss: 0.015076776966452599
+epoch: 27 steps: 301 loss: 0.037728019058704376
+epoch: 27 steps: 401 loss: 0.03403482586145401
+epoch: 27 steps: 501 loss: 0.24582743644714355
+epoch: 28 steps: 1 loss: 0.016107480973005295
+epoch: 28 steps: 101 loss: 0.04584483057260513
+epoch: 28 steps: 201 loss: 0.011514905840158463
+epoch: 28 steps: 301 loss: 0.05738111212849617
+epoch: 28 steps: 401 loss: 0.021853212267160416
+epoch: 28 steps: 501 loss: 0.09180467575788498
+epoch: 29 steps: 1 loss: 0.022335616871714592
+epoch: 29 steps: 101 loss: 0.025050070136785507
+epoch: 29 steps: 201 loss: 0.09782322496175766
+epoch: 29 steps: 301 loss: 0.015685271471738815
+epoch: 29 steps: 401 loss: 0.054512687027454376
+epoch: 29 steps: 501 loss: 0.07629502564668655
+epoch: 30 steps: 1 loss: 0.02723558619618416
+epoch: 30 steps: 101 loss: 0.059792473912239075
+epoch: 30 steps: 201 loss: 0.03143419697880745
+epoch: 30 steps: 301 loss: 0.02194947749376297
+epoch: 30 steps: 401 loss: 0.017936531454324722
+epoch: 30 steps: 501 loss: 0.046614695340394974
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |##################################################################################################################################################################| Elapsed Time: 0:00:24 Time:  0:00:24
+Testing avg loss: 54.03554232556251
+Average predictions error:
+sun position (angular error): 28.658724719229248
+tubidity: 0.5237625634083982
+exposure: 0.005469604900686956
+elevation (degrees): 1.2600356425906791
+FoV (degrees): 7.141033528490658
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights_sperad.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |##################################################################################################################################################################| Elapsed Time: 0:00:24 Time:  0:00:24
+Testing avg loss: 66.13018490503252
+Average predictions error:
+sun position (angular error): 24.802288625149355
+tubidity: 0.50953072270409
+exposure: 0.005366382009700917
+elevation (degrees): 1.465339087728472
+FoV (degrees): 7.340991750467225
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights_resnext0.1.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |###############################################################################| Elapsed Time: 0:01:17 Time:  0:01:17
+Testing avg loss: 77.99012472987725
+Average predictions error:
+sun position (angular error): 26.865703391210687
+tubidity: 0.48818146254195544
+exposure: 0.005782608972618081
+elevation (degrees): 0.48818146254195544
+FoV (degrees): 0.3313190887054972
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights_resnext.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |#################################################################################################################################################################################| Elapsed Time: 0:01:17 Time:  0:01:17
+Testing avg loss: 58.81546212436601
+Average predictions error:
+sun position (angular error): 41.63709465200475
+tubidity: 0.4871115810558444
+exposure: 0.005630134294939334
+elevation (degrees): 0.4871115810558444
+FoV (degrees): 0.32258293319188724
+evaluation done!
+
+PS C:\Users\caiyx\Desktop\dashcam-illumination-estimation-master> python eval.py --pre_trained weights_mobile.pth
+loading weights ...
+start evaluating ...
+100% (2440 of 2440) |#################################################################################################################################################################################| Elapsed Time: 0:00:35 Time:  0:00:35
+Testing avg loss: 41.57558594934459
+Average predictions error:
+sun position (angular error): 26.54470918867031
+tubidity: 0.5123931457273295
+exposure: 0.005385710565434372
+elevation (degrees): 0.5123931457273295
+FoV (degrees): 0.3085784850784059
+evaluation done!

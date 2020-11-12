@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ahPhysicalSky", "ahPhysicalSky.vcxproj", "{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		EXE|Win32 = EXE|Win32
+		EXE|x64 = EXE|x64
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		MinSizeRel|x64 = MinSizeRel|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+		RelWithDebInfo|x64 = RelWithDebInfo|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.Debug|Win32.Build.0 = Debug|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.Debug|x64.ActiveCfg = Debug|x64
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.Debug|x64.Build.0 = Debug|x64
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.EXE|Win32.ActiveCfg = EXE|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.EXE|Win32.Build.0 = EXE|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.EXE|x64.ActiveCfg = EXE|x64
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.EXE|x64.Build.0 = EXE|x64
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.MinSizeRel|x64.ActiveCfg = MinSizeRel|x64
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.MinSizeRel|x64.Build.0 = MinSizeRel|x64
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.Release|Win32.ActiveCfg = Release|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.Release|Win32.Build.0 = Release|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.Release|x64.ActiveCfg = Release|x64
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.Release|x64.Build.0 = Release|x64
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{3B4FFC11-4D48-329F-AF0E-9CBCBD25D679}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E5BE66-8603-3CBC-8F36-12077E1845FF}
+	EndGlobalSection
+EndGlobal

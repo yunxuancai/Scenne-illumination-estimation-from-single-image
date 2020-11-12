@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPkgConfig.cmake
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/CMakeLists.txt
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/assimp-config-version.cmake.in
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/assimp-config.cmake.in
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/assimp.pc.in
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/cmake-modules/FindDirectX.cmake
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/cmake-modules/FindPkgMacros.cmake
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/cmake-modules/FindZLIB.cmake
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/cmake-modules/PrecompiledHeader.cmake
+C:/Users/caiyx/Desktop/GLEngine-master/api/assimp/revision.h.in
